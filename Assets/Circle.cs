@@ -14,7 +14,7 @@ public class Circle : MonoBehaviour
     public float HandDrag = 2f;
 
     private LeapServiceProvider _leap;
-    private MeshRenderer _meshRenderer;
+    //private MeshRenderer _meshRenderer;
     private Vector3 _previosHandRotation;
     private Rigidbody _rigidbody;
 
@@ -22,7 +22,7 @@ public class Circle : MonoBehaviour
     void Start()
     {
         _leap = Controller.GetComponent<LeapServiceProvider>();
-        _meshRenderer = GetComponent<MeshRenderer>();
+        //_meshRenderer = GetComponent<MeshRenderer>();
         _rigidbody = GetComponent<Rigidbody>();
     }
 
@@ -39,7 +39,7 @@ public class Circle : MonoBehaviour
     {
         var frame = _leap.CurrentFrame;
         _rigidbody.angularDrag = FreeRotationDrag; 
-        _meshRenderer.material.color = Color.black;
+       // _meshRenderer.material.color = Color.black;
         foreach (var hand in frame.Hands)
         {
             foreach (var finger in hand.Fingers)
@@ -48,7 +48,7 @@ public class Circle : MonoBehaviour
                 {
                     Debug.DrawLine(transform.position, finger.TipPosition.ToVector3(), Color.red);
                     RotateObject(hand);
-                    _meshRenderer.material.color = Color.red;
+                    //_meshRenderer.material.color = Color.red;
                     _rigidbody.angularDrag += HandDrag;
                     break;
                 }

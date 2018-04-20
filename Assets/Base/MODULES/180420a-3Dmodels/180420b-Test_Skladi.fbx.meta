@@ -1,0 +1,214 @@
+fileFormatVersion: 2
+guid: 6a6550a5045ba6b4f963cba7aa67af41
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: v__1100_Skladi1
+    100004: v_Box10
+    100006: v_Box11
+    100008: v_Box12
+    100010: v_CAM_LIGHT
+    100012: v_camA
+    100014: v_camB
+    100016: v_camC
+    100018: v_directionalLight1
+    100020: v_directionalLight2
+    100022: v_fruit_box_01
+    100024: v_Group01
+    100026: v_group3
+    100028: v_group4
+    100030: v_loader
+    100032: v_nurbsToPoly977
+    100034: v_Object06
+    100036: v_pCube6
+    100038: v_pCube7
+    100040: v_pCylinder5
+    100042: v_Trim_Char_x_1_11
+    100044: v_Trim_Char_x_2_11
+    100046: v_Trim_Char_x_3_11
+    100048: v_Trim_Char_x_3_15
+    100050: v_Trim_Char_x_4_11
+    100052: v_Trim_Char_x_5_11
+    100054: v_Trim_Char_x_6_11
+    100056: v_Trim_Text_xxxxxx_1_2
+    100058: v__1100_Skladi1_1727fr
+    400000: //RootNode
+    400002: v__1100_Skladi1
+    400004: v_Box10
+    400006: v_Box11
+    400008: v_Box12
+    400010: v_CAM_LIGHT
+    400012: v_camA
+    400014: v_camB
+    400016: v_camC
+    400018: v_directionalLight1
+    400020: v_directionalLight2
+    400022: v_fruit_box_01
+    400024: v_Group01
+    400026: v_group3
+    400028: v_group4
+    400030: v_loader
+    400032: v_nurbsToPoly977
+    400034: v_Object06
+    400036: v_pCube6
+    400038: v_pCube7
+    400040: v_pCylinder5
+    400042: v_Trim_Char_x_1_11
+    400044: v_Trim_Char_x_2_11
+    400046: v_Trim_Char_x_3_11
+    400048: v_Trim_Char_x_3_15
+    400050: v_Trim_Char_x_4_11
+    400052: v_Trim_Char_x_5_11
+    400054: v_Trim_Char_x_6_11
+    400056: v_Trim_Text_xxxxxx_1_2
+    400058: v__1100_Skladi1_1727fr
+    2000000: v_camA
+    2000002: v_camB
+    2000004: v_camC
+    2100000: v__03Text
+    2100002: lambert1
+    2100004: v_03 - Default
+    2100006: v__15Pogruzchik
+    2100008: v_fruit_box
+    2100010: v__19Pogruzchik
+    2100012: v__22pogruzchik1
+    2100014: v__22pogruzchik
+    2100016: Default_Material
+    2300000: v_Box10
+    2300002: v_Box11
+    2300004: v_Box12
+    2300006: v_fruit_box_01
+    2300008: v_loader
+    2300010: v_nurbsToPoly977
+    2300012: v_Object06
+    2300014: v_pCube6
+    2300016: v_pCube7
+    2300018: v_pCylinder5
+    2300020: v_Trim_Char_x_1_11
+    2300022: v_Trim_Char_x_2_11
+    2300024: v_Trim_Char_x_3_11
+    2300026: v_Trim_Char_x_3_15
+    2300028: v_Trim_Char_x_4_11
+    2300030: v_Trim_Char_x_5_11
+    2300032: v_Trim_Char_x_6_11
+    3300000: v_Box10
+    3300002: v_Box11
+    3300004: v_Box12
+    3300006: v_fruit_box_01
+    3300008: v_loader
+    3300010: v_nurbsToPoly977
+    3300012: v_Object06
+    3300014: v_pCube6
+    3300016: v_pCube7
+    3300018: v_pCylinder5
+    3300020: v_Trim_Char_x_1_11
+    3300022: v_Trim_Char_x_2_11
+    3300024: v_Trim_Char_x_3_11
+    3300026: v_Trim_Char_x_3_15
+    3300028: v_Trim_Char_x_4_11
+    3300030: v_Trim_Char_x_5_11
+    3300032: v_Trim_Char_x_6_11
+    4300000: v_Trim_Char_x_1_11
+    4300002: v_Trim_Char_x_2_11
+    4300004: v_Trim_Char_x_3_11
+    4300006: v_Trim_Char_x_4_11
+    4300008: v_Trim_Char_x_5_11
+    4300010: v_Trim_Char_x_6_11
+    4300012: v_Trim_Char_x_3_15
+    4300014: v_pCylinder5
+    4300016: v_Box10
+    4300018: v_Box11
+    4300020: v_Object06
+    4300022: v_Box12
+    4300024: v_fruit_box_01
+    4300026: v_nurbsToPoly977
+    4300028: v_loader
+    4300030: v_pCube7
+    4300032: v_pCube6
+    9500000: //RootNode
+    10800000: v_directionalLight1
+    10800002: v_directionalLight2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
