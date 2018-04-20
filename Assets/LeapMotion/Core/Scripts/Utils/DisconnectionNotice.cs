@@ -42,7 +42,7 @@ namespace Leap.Unity{
     }
   
     void SetAlpha(float alpha) {
-      GetComponent<UnityEngine.UI.Image>().color = Color.Lerp(Color.clear, onColor, alpha);
+      //GetComponent<UnityEngine.UI.Image>().color = Color.Lerp(Color.clear, onColor, alpha);
     }
   
     /** The connection state of the controller. */
